@@ -1,0 +1,6 @@
+---
+# defaults file for appserver
+folderpath: /home/shravan/nodesetup
+appserverport: 8888
+app_ip: 172.31.26.207
+node_version: 6
